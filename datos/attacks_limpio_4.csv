@@ -1,175 +1,175 @@
 ,case_number,year,mes,country,type,activity,age,sex,species,fatal
-0,1800.00.00,1800,,seychelles,Unprovoked,a corsair's boat was overturned,,F,UNKNOWN,y
-1,1797.05.28.R,1797,May,,Unprovoked,Dropped overboard,,,UNKNOWN,y
-2,1792.09.12,1792,Sep,england,Provoked,Fishing,,M,UNKNOWN,y
-3,1791.00.00,1791,,australia,Unprovoked,,,F,UNKNOWN,y
-4,1788.05.10,1788,May,australia,Boat,Fishing,,,UNKNOWN,n
-5,1787.07.05,1787,Jul,,Unprovoked,Swimming,,M,UNKNOWN,y
-6,1786.08.10.R,1786,Aug,barbados,Unprovoked,Washing himself,,M,UNKNOWN,y
-7,1785.09.26.R,1785,Sep,england,Unprovoked,,,M,TIGER SHARK,y
-8,1784.12.12,1784,Dec,jamaica,Unprovoked,Swimming,,M,UNKNOWN,y
-9,1783.03.02,1783,Mar,martinique,Sea Disaster,,,M,UNKNOWN,y
-10,1780.08.08,1780,Aug,usa,Unprovoked,Swimming,,M,UNKNOWN,y
-11,1779.00.00,1779,,usa,Unprovoked,Surfing,,M,UNKNOWN,y
-12,1776.00.00.R,1776,,guinea,Unprovoked,Murder,,M,UNKNOWN,y
-13,1776.00.00.b,1776,,greenland,Boat,,,,WHITE SHARK,y
-14,1771.07.12.R,1771,Jul,usa,Unprovoked,Fishing,,M,UNKNOWN,y
-15,1767.00.00,1767,,france,Invalid,Bathing,,M,UNKNOWN,
-16,1764.00.00,1764,,spain,Unprovoked,Swimming,,M,UNKNOWN,y
-17,1758.00.00,1758,,mediterranean sea,Unprovoked,"Fell overboard from a frigate & was swallowed by a shark. The captain fired a gun at the shark, and ""the creature cast the man out of his throat.""",,M,UNKNOWN,n
-18,1753.10.27.R,1753,Oct,jamaica,Unprovoked,Fell overboard,,M,UNKNOWN,y
-19,1751.07.27,1751,Jul,usa,Unprovoked,Swimming,,M,UNKNOWN,y
-20,1749.00.00,1749,,cuba,Unprovoked,Swimming,14.0,M,UNKNOWN,n
-21,1755.00.00,1755,,sweden,Unprovoked,,,M,UNKNOWN,
-22,1748.00.00,1748,,panama,Unprovoked,Pearl diving,,M,UNKNOWN,y
-23,1742.12.17,1742,Dec,,Unprovoked,Swimming,,M,UNKNOWN,y
-24,1738.04.06.R,1738,Apr,italy,Unprovoked,Swimming,,M,UNKNOWN,y
-25,1733.00.00,1733,,iceland,Invalid,,,,UNKNOWN,
-26,1723.00.00,1723,,roatan,Unprovoked,,,M,UNKNOWN,
-27,1721.06.00,1721,,italy,Unprovoked,Swimming,,M,WHITE SHARK,y
-28,1703.03.26,1703,Mar,barbados,Unprovoked,Swimming,19.0,M,UNKNOWN,n
-29,1700.00.00.c,1700,,france,Unprovoked,,,M,UNKNOWN,y
-30,1700.00.00.b,1700,,france,Unprovoked,Bathing,,M,WHITE SHARK,n
-31,1700.00.00.a,1700,,barbados,Unprovoked,Bathing,,M,UNKNOWN,y
-32,1642.00.00.b,1642,,guinea,Invalid,Went overboard,,M,UNKNOWN,
-33,1638.00.00.R,1638,,,Unprovoked,,,M,UNKNOWN,
-34,1637.00.00.R,1637,,india,Unprovoked,Wading,,,UNKNOWN,
-35,1617.00.00.R,1617,,india,Unprovoked,,,,UNKNOWN,
-36,1642.00.00,1642,,usa,Unprovoked,Swimming ,,M,UNKNOWN,y
-37,1595.00.00,1595,,india,Unprovoked,Ship lay at anchor & man was working on its rudder,,M,UNKNOWN,
-38,1580.01.10.R,1580,Jan,between portugal & india,Unprovoked,Man fell overboard from ship. Those on board threw a rope to him with a wooden block & were pulling him to the ship,,M,UNKNOWN,y
-39,1555.00.00,1555,,,Unprovoked,Swimming,,M,UNKNOWN,
-40,1554.00.00,1554,,france,Unprovoked,,,M,WHITE SHARK,
-41,1543.00.00,1543,,venezuela,Unprovoked,Pearl diving,,M,UNKNOWN,y
-42,0500.00.00,500,,mexico,Unprovoked,,,M,UNKNOWN,n
-43,0077.00.00,77,,,Unprovoked,Sponge diving,,M,UNKNOWN,y
-44,0005.00.00,5,,australia,Unprovoked,,,M,UNKNOWN,n
-45,0000.0214,0,,,Unprovoked,Ascending from a dive,,M,UNKNOWN,y
-46,0000.0336,0,,greece,Unprovoked,Washing his pig in preparation for a religious ceremony,,M,UNKNOWN,y
-47,0000.0493,0,,greece,Sea Disaster,Shipwrecked Persian Fleet,,M,UNKNOWN,y
-48,0000.0725,0,,italy,Sea Disaster,Shipwreck,,M,UNKNOWN,y
-49,ND-0154,0,,canada,Unprovoked,Fishing,,M,UNKNOWN,n
-50,ND-0153,0,,kenya,Unprovoked,Diving,,M,UNKNOWN,n
-51,ND-0152,0,,kenya,Unprovoked,Diving,,M,UNKNOWN,y
-52,ND-0151,0,Oct,panama,Unprovoked,Swimming/,20.0,M,UNKNOWN,y
-53,ND-0150,0,,uruguay,Unprovoked,Swimming,,,UNKNOWN,n
-54,ND-0149,0,,uruguay,Unprovoked,Swimming,,M,UNKNOWN,y
-55,ND-0148,0,,usa,Unprovoked,Swimming,,M,UNKNOWN,n
-56,ND-1940,0,,papua new guinea,Unprovoked,Swimming to canoe,,M,UNKNOWN,y
-57,ND-0139,0,,australia,Unprovoked,,15.0,F,UNKNOWN,n
-58,ND-0138,0,,australia,Unprovoked,Fell into the water,,M,UNKNOWN,y
-59,ND-0136,0,,usa,Unprovoked,Diving,,M,UNKNOWN,n
-60,ND-0135,0,,bermuda,Unprovoked,,,M,UNKNOWN,y
-61,ND-0134,0,,greece,Unprovoked,Swimming,,F,UNKNOWN,y
-62,ND-0133,0,,usa,Unprovoked,Fishing for basking sharks,,M,UNKNOWN,y
-63,ND-0132,0,,india,Provoked,,,M,UNKNOWN,n
-64,ND-0130,0,,lebanon,Unprovoked,Collecting fish ,,M,UNKNOWN,n
-65,ND-0129,0,,spain,Unprovoked,Skin diving,,,UNKNOWN,n
-66,ND-0127,0,,sudan,Unprovoked,Snorkeling,,F,UNKNOWN,n
-67,ND-0124,0,,,Provoked,,,M,UNKNOWN,n
-68,ND-0123,0,,usa,Unprovoked,Shark tagging,21.0,F,UNKNOWN,n
-69,ND-0122,0,,usa,Unprovoked,Surfing,,M,UNKNOWN,n
-70,ND-0119,0,,djibouti,Unprovoked,A dhow capsized,,,UNKNOWN,y
-71,ND-0118,0,,libya,Unprovoked,Sponge diving,,M,UNKNOWN,y
-72,ND-0116,0,,australia,Unprovoked,Net-fishing,,M,UNKNOWN,n
-73,ND-0115,0,Jun,new zealand,Unprovoked,,,M,UNKNOWN,y
-74,ND-0114,0,,,Unprovoked,Netting shrimp,,F,UNKNOWN,n
-75,ND-0113,0,,vietnam,Unprovoked,Bathing,,M,UNKNOWN,n
-76,ND-0111,0,,sri lanka,Unprovoked,Fishing?,,M,UNKNOWN,n
-77,ND.0110,0,,venezuela,Unprovoked,Spearfishing ,,M,UNKNOWN,y
-78,ND-0109,0,,usa,Unprovoked,Wade-fishing,,M,UNKNOWN,n
-79,ND-0108,0,,greece,Unprovoked,Free diving for sponges,,M,UNKNOWN,y
-80,ND-0107,0,,mozambique,Boat,Fishing,,,UNKNOWN,n
-81,ND-0106,0,,south africa,Unprovoked,Swimming,,M,UNKNOWN,y
-82,ND.0104,0,,australia,Unprovoked,Helmet diving,,M,TIGER SHARK,n
-83,ND.0102,0,,bahrein,Unprovoked,Pearl diving,,M,TIGER SHARK,y
-84,ND.0100,0,,bahamas,Unprovoked,Spearfishing ,,M,UNKNOWN,n
-85,ND.0097,0,,usa,Unprovoked,Kitesurfing,,M,UNKNOWN,n
-86,ND.0096,0,,reunion,Unprovoked,yachtsman in a zodiac,,M,UNKNOWN,n
-87,ND.0095,0,Feb,solomon islands,Unprovoked,Diving,,M,UNKNOWN,n
-88,ND.0094,0,May,korea,Unprovoked,Diving,,F,UNKNOWN,y
-89,ND.0093,0,Mar,french polynesia,Unprovoked,Fishing,,M,UNKNOWN,n
-90,ND.0091,0,,sudan,Unprovoked,Diving,,M,UNKNOWN,n
-91,ND.0090,0,Aug,vanuatu,Unprovoked,,,F,UNKNOWN,y
-92,ND.0089,0,Aug,vanuatu,Provoked,Attempting to drive shark from area,,M,UNKNOWN,n
-93,ND.0088,0,,iran,Unprovoked,,,M,BULL SHARK,n
-94,ND.0087,0,,usa,Provoked,Skin diving. Grabbed shark's tail; shark turned & grabbed diver's ankle & began towing him to deep water,19.0,M,UNKNOWN,n
-95,ND.0086,0,,papua new guinea,Invalid,Scuba diving,,M,UNKNOWN,y
-96,ND.0085,0,,red sea?,Unprovoked,Free diving,,F,UNKNOWN,n
-97,ND.0084,0,Jan,south africa,Unprovoked,Crossing river on a raft,,M,UNKNOWN,y
-98,ND.0083,0,,usa,Unprovoked,"Free diving, collecting sand dollars",,M,UNKNOWN,n
-99,ND.0082,0,May,greece,Unprovoked,Swimming,,F,UNKNOWN,y
-100,ND.0081,0,,usa,Invalid,Diving,,M,UNKNOWN,
-101,ND.0078,0,,usa,Unprovoked,Canoeing,,M,UNKNOWN,y
-102,ND.0076,0,,mediterranean sea,Unprovoked,,,M,UNKNOWN,y
-103,ND.0075,0,,australia,Unprovoked,Diving for trochus,,M,UNKNOWN,n
-104,ND.0074,0,,australia,Unprovoked,Pearl diving,,M,UNKNOWN,n
-105,ND.0073,0,,singapore,Unprovoked,Swimming,,,UNKNOWN,n
-106,ND.0069,0,,fiji,Unprovoked,Spearfishing ,27.0,M,UNKNOWN,n
-107,ND.0068,0,,mozambique,Unprovoked,Skindiving,36.0,M,UNKNOWN,n
-108,ND.0066,0,,seychelles,Unprovoked,Swimming from capsized pirogue,,M,TIGER SHARK,y
-109,ND.0065,0,,iraq,Unprovoked,Fishing from a small boat & put his hand in the water while holding a dead fish,25.0,M,UNKNOWN,n
-110,ND.0064,0,,iraq,Unprovoked,Swimming naked near a date palm where many dates fell into the water,6.0,M,BULL SHARK,n
-111,ND.0063,0,,iraq,Unprovoked,Swimming in section of river used for washing clothes & cooking utensils,16.0,M,BULL SHARK,n
-112,ND.0062,0,,bahamas,Unprovoked,,,M,WHITE SHARK,n
-113,ND.0060,0,Jun,usa,Unprovoked,,,F,WHITE SHARK,n
-114,ND.0059,0,Apr,bermuda,Unprovoked,Spearfishing ,,M,UNKNOWN,n
-115,ND.0058,0,,fiji,Unprovoked,Swimming with fish attached to  belt,,F,UNKNOWN,n
-116,ND.0057,0,,madagascar,Unprovoked,Bathing,,M,UNKNOWN,y
-117,ND.0056,0,,usa,Unprovoked,Standing,,M,UNKNOWN,n
-118,ND.0055,0,,bahamas,Provoked,Testing movie camera in full diving dress,,M,UNKNOWN,n
-119,ND.0054,0,,indonesia,Unprovoked,Swimming near anchored ship,,M,UNKNOWN,y
-120,ND.0053,0,,india,Unprovoked,,,M,UNKNOWN,y
-121,ND.0052,0,,nicaragua,Unprovoked,Lashing logs together when he fell into the water,,M,BULL SHARK,y
-122,ND.0051,0,,cuba,Provoked,"Shark fishing, knocked overboard",50.0,M,UNKNOWN,y
-123,ND.0049,0,,marshall islands,Unprovoked,Swimming,,M,UNKNOWN,n
-124,ND.0048,0,,kiribati,Unprovoked,Diving,,M,UNKNOWN,n
-125,ND.0047,0,Mar,north pacific ocean,Unprovoked,"Fishing, wading with string of fish",,M,UNKNOWN,n
-126,ND.0046,0,,kiribati,Unprovoked,,,M,UNKNOWN,y
-127,ND.0044,0,,,Sea Disaster,A group of survivors on a raft for 17-days,,,UNKNOWN,y
-128,ND.0043,0,,solomon islands,Unprovoked,Floating on his back,,M,UNKNOWN,n
-129,ND.0042,0,,australia,Unprovoked,Free diving,,M,UNKNOWN,n
-130,ND.0041,0,,iran,Unprovoked,Fishing in ankle-deep water,,M,UNKNOWN,y
-131,ND.0040,0,,iran,Unprovoked,,,M,UNKNOWN,y
-132,ND.0039,0,,iran,Unprovoked,"Standing, washing rear wheels of his ambulance in ankle-deep water",,M,UNKNOWN,y
-133,ND.0038,0,,iraq,Unprovoked,Swimming,13.0,M,BULL SHARK,y
-133,ND.0038,0,,iraq,Unprovoked,Swimming,14.0,M,BULL SHARK,y
-134,ND.0037,0,,saudi arabia,Unprovoked,Diving,,M,UNKNOWN,y
-135,ND.0036,0,,saudi arabia,Unprovoked,Diving,,M,UNKNOWN,n
-136,ND.0035,0,,saudi arabia,Unprovoked,Diving,,M,UNKNOWN,n
-137,ND.0034,0,,pacific ocean,Sea Disaster,,,M,UNKNOWN,y
-138,ND.0033,0,,burma,Provoked,Carrying a supposedly dead shark by its mouth,,M,UNKNOWN,n
-139,ND.0032,0,,papua new guinea,Sea Disaster,Spent 8 days in dinghy,,M,UNKNOWN,n
-140,ND.0031,0,,papua new guinea,Sea Disaster,"Aircraft ditched in the sea, swimming ashore",,M,UNKNOWN,n
-141,ND.0030,0,,burma,Unprovoked,Bathing,,M,UNKNOWN,y
-142,ND.0028,0,,italy,Boat,Wooden fishing boat,,M,WHITE SHARK,n
-143,ND.0027,0,,greece,Unprovoked,Sponge diving,,M,UNKNOWN,n
-144,ND.0026,0,,belize,Unprovoked,Standing,16.0,M,TIGER SHARK,y
-145,ND.0025,0,,australia,Unprovoked,,,M,UNKNOWN,
-146,ND.0024,0,,reunion,Unprovoked,Swimming,,,UNKNOWN,y
-147,ND.0023,0,,south africa,Unprovoked,Wading,,F,UNKNOWN,n
-148,ND.0022,0,,australia,Unprovoked,Pearl diving,,M,UNKNOWN,n
-149,ND.0021,0,,south africa,Unprovoked,Swimming in pool formed by construction of a wharf,,M,UNKNOWN,y
-150,ND.0020,0,,australia,Unprovoked,,,M,UNKNOWN,y
-151,ND.0019,0,,usa,Unprovoked,Fishing,,M,UNKNOWN,n
-152,ND.0018,0,,vietnam,Unprovoked,Swimming around anchored ship,,M,UNKNOWN,n
-153,ND.0017,0,,south africa,Unprovoked,Crew swimming alongside their anchored ship,,M,UNKNOWN,y
-154,ND.0016,0,,south africa,Unprovoked,4 men were bathing,,M,UNKNOWN,y
-155,ND.0015,0,,fiji,Unprovoked,Wreck of  large double sailing canoe,,,UNKNOWN,y
-156,ND.0014,0,Jul,usa,Unprovoked,Swimming,,M,UNKNOWN,n
-157,ND.0013,0,Jul,south africa,Unprovoked,Fishing,,M,UNKNOWN,y
-158,ND.0012,0,Jul,south africa,Unprovoked,Wading,,M,UNKNOWN,y
-159,ND.0011,0,,asia?,Unprovoked,Swimming,,M,UNKNOWN,n
-160,ND.0010,0,,usa,Unprovoked,,,F,UNKNOWN,n
-161,ND.0009,0,,australia,Unprovoked,Fishing,,M,UNKNOWN,y
-162,ND.0008,0,,australia,Unprovoked,Fishing,,M,UNKNOWN,y
-163,ND.0007,0,,australia,Unprovoked,Fishing,,M,UNKNOWN,y
-164,ND.0006,0,,australia,Unprovoked,Swimming,,M,UNKNOWN,y
-165,ND.0005,0,,australia,Unprovoked,Diving,,M,UNKNOWN,y
-166,ND.0004,0,,australia,Unprovoked,Pearl diving,,M,UNKNOWN,y
-167,ND.0003,0,,usa,Unprovoked,Swimming,,M,UNKNOWN,y
-168,ND.0002,0,,panama,Unprovoked,,,M,UNKNOWN,y
-169,ND.0001,0,,ceylon (sri lanka),Unprovoked,Swimming,15.0,M,UNKNOWN,y
+0,1800.00.00,1976,,seychelles,Unprovoked,a corsair's boat was overturned,,F,UNKNOWN,y
+1,1797.05.28.R,1976,May,,Unprovoked,Dropped overboard,,,UNKNOWN,y
+2,1792.09.12,1976,Sep,england,Provoked,Fishing,,M,UNKNOWN,y
+3,1791.00.00,1976,,australia,Unprovoked,,,F,UNKNOWN,y
+4,1788.05.10,1976,May,australia,Boat,Fishing,,,UNKNOWN,n
+5,1787.07.05,1976,Jul,,Unprovoked,Swimming,,M,UNKNOWN,y
+6,1786.08.10.R,1976,Aug,barbados,Unprovoked,Washing himself,,M,UNKNOWN,y
+7,1785.09.26.R,1976,Sep,england,Unprovoked,,,M,TIGER SHARK,y
+8,1784.12.12,1976,Dec,jamaica,Unprovoked,Swimming,,M,UNKNOWN,y
+9,1783.03.02,1976,Mar,martinique,Sea Disaster,,,M,UNKNOWN,y
+10,1780.08.08,1976,Aug,usa,Unprovoked,Swimming,,M,UNKNOWN,y
+11,1779.00.00,1976,,usa,Unprovoked,Surfing,,M,UNKNOWN,y
+12,1776.00.00.R,1976,,guinea,Unprovoked,Murder,,M,UNKNOWN,y
+13,1776.00.00.b,1976,,greenland,Boat,,,,WHITE SHARK,y
+14,1771.07.12.R,1976,Jul,usa,Unprovoked,Fishing,,M,UNKNOWN,y
+15,1767.00.00,1976,,france,Invalid,Bathing,,M,UNKNOWN,
+16,1764.00.00,1976,,spain,Unprovoked,Swimming,,M,UNKNOWN,y
+17,1758.00.00,1976,,mediterranean sea,Unprovoked,"Fell overboard from a frigate & was swallowed by a shark. The captain fired a gun at the shark, and ""the creature cast the man out of his throat.""",,M,UNKNOWN,n
+18,1753.10.27.R,1976,Oct,jamaica,Unprovoked,Fell overboard,,M,UNKNOWN,y
+19,1751.07.27,1976,Jul,usa,Unprovoked,Swimming,,M,UNKNOWN,y
+20,1749.00.00,1976,,cuba,Unprovoked,Swimming,14.0,M,UNKNOWN,n
+21,1755.00.00,1976,,sweden,Unprovoked,,,M,UNKNOWN,
+22,1748.00.00,1976,,panama,Unprovoked,Pearl diving,,M,UNKNOWN,y
+23,1742.12.17,1976,Dec,,Unprovoked,Swimming,,M,UNKNOWN,y
+24,1738.04.06.R,1976,Apr,italy,Unprovoked,Swimming,,M,UNKNOWN,y
+25,1733.00.00,1976,,iceland,Invalid,,,,UNKNOWN,
+26,1723.00.00,1976,,roatan,Unprovoked,,,M,UNKNOWN,
+27,1721.06.00,1976,,italy,Unprovoked,Swimming,,M,WHITE SHARK,y
+28,1703.03.26,1976,Mar,barbados,Unprovoked,Swimming,19.0,M,UNKNOWN,n
+29,1700.00.00.c,1976,,france,Unprovoked,,,M,UNKNOWN,y
+30,1700.00.00.b,1976,,france,Unprovoked,Bathing,,M,WHITE SHARK,n
+31,1700.00.00.a,1976,,barbados,Unprovoked,Bathing,,M,UNKNOWN,y
+32,1642.00.00.b,1976,,guinea,Invalid,Went overboard,,M,UNKNOWN,
+33,1638.00.00.R,1976,,,Unprovoked,,,M,UNKNOWN,
+34,1637.00.00.R,1976,,india,Unprovoked,Wading,,,UNKNOWN,
+35,1617.00.00.R,1976,,india,Unprovoked,,,,UNKNOWN,
+36,1642.00.00,1976,,usa,Unprovoked,Swimming ,,M,UNKNOWN,y
+37,1595.00.00,1976,,india,Unprovoked,Ship lay at anchor & man was working on its rudder,,M,UNKNOWN,
+38,1580.01.10.R,1976,Jan,between portugal & india,Unprovoked,Man fell overboard from ship. Those on board threw a rope to him with a wooden block & were pulling him to the ship,,M,UNKNOWN,y
+39,1555.00.00,1976,,,Unprovoked,Swimming,,M,UNKNOWN,
+40,1554.00.00,1976,,france,Unprovoked,,,M,WHITE SHARK,
+41,1543.00.00,1976,,venezuela,Unprovoked,Pearl diving,,M,UNKNOWN,y
+42,0500.00.00,1976,,mexico,Unprovoked,,,M,UNKNOWN,n
+43,0077.00.00,1976,,,Unprovoked,Sponge diving,,M,UNKNOWN,y
+44,0005.00.00,1976,,australia,Unprovoked,,,M,UNKNOWN,n
+45,0000.0214,1976,,,Unprovoked,Ascending from a dive,,M,UNKNOWN,y
+46,0000.0336,1976,,greece,Unprovoked,Washing his pig in preparation for a religious ceremony,,M,UNKNOWN,y
+47,0000.0493,1976,,greece,Sea Disaster,Shipwrecked Persian Fleet,,M,UNKNOWN,y
+48,0000.0725,1976,,italy,Sea Disaster,Shipwreck,,M,UNKNOWN,y
+49,ND-0154,1976,,canada,Unprovoked,Fishing,,M,UNKNOWN,n
+50,ND-0153,1976,,kenya,Unprovoked,Diving,,M,UNKNOWN,n
+51,ND-0152,1976,,kenya,Unprovoked,Diving,,M,UNKNOWN,y
+52,ND-0151,1976,Oct,panama,Unprovoked,Swimming/,20.0,M,UNKNOWN,y
+53,ND-0150,1976,,uruguay,Unprovoked,Swimming,,,UNKNOWN,n
+54,ND-0149,1976,,uruguay,Unprovoked,Swimming,,M,UNKNOWN,y
+55,ND-0148,1976,,usa,Unprovoked,Swimming,,M,UNKNOWN,n
+56,ND-1940,1976,,papua new guinea,Unprovoked,Swimming to canoe,,M,UNKNOWN,y
+57,ND-0139,1976,,australia,Unprovoked,,15.0,F,UNKNOWN,n
+58,ND-0138,1976,,australia,Unprovoked,Fell into the water,,M,UNKNOWN,y
+59,ND-0136,1976,,usa,Unprovoked,Diving,,M,UNKNOWN,n
+60,ND-0135,1976,,bermuda,Unprovoked,,,M,UNKNOWN,y
+61,ND-0134,1976,,greece,Unprovoked,Swimming,,F,UNKNOWN,y
+62,ND-0133,1976,,usa,Unprovoked,Fishing for basking sharks,,M,UNKNOWN,y
+63,ND-0132,1976,,india,Provoked,,,M,UNKNOWN,n
+64,ND-0130,1976,,lebanon,Unprovoked,Collecting fish ,,M,UNKNOWN,n
+65,ND-0129,1976,,spain,Unprovoked,Skin diving,,,UNKNOWN,n
+66,ND-0127,1976,,sudan,Unprovoked,Snorkeling,,F,UNKNOWN,n
+67,ND-0124,1976,,,Provoked,,,M,UNKNOWN,n
+68,ND-0123,1976,,usa,Unprovoked,Shark tagging,21.0,F,UNKNOWN,n
+69,ND-0122,1976,,usa,Unprovoked,Surfing,,M,UNKNOWN,n
+70,ND-0119,1976,,djibouti,Unprovoked,A dhow capsized,,,UNKNOWN,y
+71,ND-0118,1976,,libya,Unprovoked,Sponge diving,,M,UNKNOWN,y
+72,ND-0116,1976,,australia,Unprovoked,Net-fishing,,M,UNKNOWN,n
+73,ND-0115,1976,Jun,new zealand,Unprovoked,,,M,UNKNOWN,y
+74,ND-0114,1976,,,Unprovoked,Netting shrimp,,F,UNKNOWN,n
+75,ND-0113,1976,,vietnam,Unprovoked,Bathing,,M,UNKNOWN,n
+76,ND-0111,1976,,sri lanka,Unprovoked,Fishing?,,M,UNKNOWN,n
+77,ND.0110,1976,,venezuela,Unprovoked,Spearfishing ,,M,UNKNOWN,y
+78,ND-0109,1976,,usa,Unprovoked,Wade-fishing,,M,UNKNOWN,n
+79,ND-0108,1976,,greece,Unprovoked,Free diving for sponges,,M,UNKNOWN,y
+80,ND-0107,1976,,mozambique,Boat,Fishing,,,UNKNOWN,n
+81,ND-0106,1976,,south africa,Unprovoked,Swimming,,M,UNKNOWN,y
+82,ND.0104,1976,,australia,Unprovoked,Helmet diving,,M,TIGER SHARK,n
+83,ND.0102,1976,,bahrein,Unprovoked,Pearl diving,,M,TIGER SHARK,y
+84,ND.0100,1976,,bahamas,Unprovoked,Spearfishing ,,M,UNKNOWN,n
+85,ND.0097,1976,,usa,Unprovoked,Kitesurfing,,M,UNKNOWN,n
+86,ND.0096,1976,,reunion,Unprovoked,yachtsman in a zodiac,,M,UNKNOWN,n
+87,ND.0095,1976,Feb,solomon islands,Unprovoked,Diving,,M,UNKNOWN,n
+88,ND.0094,1976,May,korea,Unprovoked,Diving,,F,UNKNOWN,y
+89,ND.0093,1976,Mar,french polynesia,Unprovoked,Fishing,,M,UNKNOWN,n
+90,ND.0091,1976,,sudan,Unprovoked,Diving,,M,UNKNOWN,n
+91,ND.0090,1976,Aug,vanuatu,Unprovoked,,,F,UNKNOWN,y
+92,ND.0089,1976,Aug,vanuatu,Provoked,Attempting to drive shark from area,,M,UNKNOWN,n
+93,ND.0088,1976,,iran,Unprovoked,,,M,BULL SHARK,n
+94,ND.0087,1976,,usa,Provoked,Skin diving. Grabbed shark's tail; shark turned & grabbed diver's ankle & began towing him to deep water,19.0,M,UNKNOWN,n
+95,ND.0086,1976,,papua new guinea,Invalid,Scuba diving,,M,UNKNOWN,y
+96,ND.0085,1976,,red sea?,Unprovoked,Free diving,,F,UNKNOWN,n
+97,ND.0084,1976,Jan,south africa,Unprovoked,Crossing river on a raft,,M,UNKNOWN,y
+98,ND.0083,1976,,usa,Unprovoked,"Free diving, collecting sand dollars",,M,UNKNOWN,n
+99,ND.0082,1976,May,greece,Unprovoked,Swimming,,F,UNKNOWN,y
+100,ND.0081,1976,,usa,Invalid,Diving,,M,UNKNOWN,
+101,ND.0078,1976,,usa,Unprovoked,Canoeing,,M,UNKNOWN,y
+102,ND.0076,1976,,mediterranean sea,Unprovoked,,,M,UNKNOWN,y
+103,ND.0075,1976,,australia,Unprovoked,Diving for trochus,,M,UNKNOWN,n
+104,ND.0074,1976,,australia,Unprovoked,Pearl diving,,M,UNKNOWN,n
+105,ND.0073,1976,,singapore,Unprovoked,Swimming,,,UNKNOWN,n
+106,ND.0069,1976,,fiji,Unprovoked,Spearfishing ,27.0,M,UNKNOWN,n
+107,ND.0068,1976,,mozambique,Unprovoked,Skindiving,36.0,M,UNKNOWN,n
+108,ND.0066,1976,,seychelles,Unprovoked,Swimming from capsized pirogue,,M,TIGER SHARK,y
+109,ND.0065,1976,,iraq,Unprovoked,Fishing from a small boat & put his hand in the water while holding a dead fish,25.0,M,UNKNOWN,n
+110,ND.0064,1976,,iraq,Unprovoked,Swimming naked near a date palm where many dates fell into the water,6.0,M,BULL SHARK,n
+111,ND.0063,1976,,iraq,Unprovoked,Swimming in section of river used for washing clothes & cooking utensils,16.0,M,BULL SHARK,n
+112,ND.0062,1976,,bahamas,Unprovoked,,,M,WHITE SHARK,n
+113,ND.0060,1976,Jun,usa,Unprovoked,,,F,WHITE SHARK,n
+114,ND.0059,1976,Apr,bermuda,Unprovoked,Spearfishing ,,M,UNKNOWN,n
+115,ND.0058,1976,,fiji,Unprovoked,Swimming with fish attached to  belt,,F,UNKNOWN,n
+116,ND.0057,1976,,madagascar,Unprovoked,Bathing,,M,UNKNOWN,y
+117,ND.0056,1976,,usa,Unprovoked,Standing,,M,UNKNOWN,n
+118,ND.0055,1976,,bahamas,Provoked,Testing movie camera in full diving dress,,M,UNKNOWN,n
+119,ND.0054,1976,,indonesia,Unprovoked,Swimming near anchored ship,,M,UNKNOWN,y
+120,ND.0053,1976,,india,Unprovoked,,,M,UNKNOWN,y
+121,ND.0052,1976,,nicaragua,Unprovoked,Lashing logs together when he fell into the water,,M,BULL SHARK,y
+122,ND.0051,1976,,cuba,Provoked,"Shark fishing, knocked overboard",50.0,M,UNKNOWN,y
+123,ND.0049,1976,,marshall islands,Unprovoked,Swimming,,M,UNKNOWN,n
+124,ND.0048,1976,,kiribati,Unprovoked,Diving,,M,UNKNOWN,n
+125,ND.0047,1976,Mar,north pacific ocean,Unprovoked,"Fishing, wading with string of fish",,M,UNKNOWN,n
+126,ND.0046,1976,,kiribati,Unprovoked,,,M,UNKNOWN,y
+127,ND.0044,1976,,,Sea Disaster,A group of survivors on a raft for 17-days,,,UNKNOWN,y
+128,ND.0043,1976,,solomon islands,Unprovoked,Floating on his back,,M,UNKNOWN,n
+129,ND.0042,1976,,australia,Unprovoked,Free diving,,M,UNKNOWN,n
+130,ND.0041,1976,,iran,Unprovoked,Fishing in ankle-deep water,,M,UNKNOWN,y
+131,ND.0040,1976,,iran,Unprovoked,,,M,UNKNOWN,y
+132,ND.0039,1976,,iran,Unprovoked,"Standing, washing rear wheels of his ambulance in ankle-deep water",,M,UNKNOWN,y
+133,ND.0038,1976,,iraq,Unprovoked,Swimming,13.0,M,BULL SHARK,y
+133,ND.0038,1976,,iraq,Unprovoked,Swimming,14.0,M,BULL SHARK,y
+134,ND.0037,1976,,saudi arabia,Unprovoked,Diving,,M,UNKNOWN,y
+135,ND.0036,1976,,saudi arabia,Unprovoked,Diving,,M,UNKNOWN,n
+136,ND.0035,1976,,saudi arabia,Unprovoked,Diving,,M,UNKNOWN,n
+137,ND.0034,1976,,pacific ocean,Sea Disaster,,,M,UNKNOWN,y
+138,ND.0033,1976,,burma,Provoked,Carrying a supposedly dead shark by its mouth,,M,UNKNOWN,n
+139,ND.0032,1976,,papua new guinea,Sea Disaster,Spent 8 days in dinghy,,M,UNKNOWN,n
+140,ND.0031,1976,,papua new guinea,Sea Disaster,"Aircraft ditched in the sea, swimming ashore",,M,UNKNOWN,n
+141,ND.0030,1976,,burma,Unprovoked,Bathing,,M,UNKNOWN,y
+142,ND.0028,1976,,italy,Boat,Wooden fishing boat,,M,WHITE SHARK,n
+143,ND.0027,1976,,greece,Unprovoked,Sponge diving,,M,UNKNOWN,n
+144,ND.0026,1976,,belize,Unprovoked,Standing,16.0,M,TIGER SHARK,y
+145,ND.0025,1976,,australia,Unprovoked,,,M,UNKNOWN,
+146,ND.0024,1976,,reunion,Unprovoked,Swimming,,,UNKNOWN,y
+147,ND.0023,1976,,south africa,Unprovoked,Wading,,F,UNKNOWN,n
+148,ND.0022,1976,,australia,Unprovoked,Pearl diving,,M,UNKNOWN,n
+149,ND.0021,1976,,south africa,Unprovoked,Swimming in pool formed by construction of a wharf,,M,UNKNOWN,y
+150,ND.0020,1976,,australia,Unprovoked,,,M,UNKNOWN,y
+151,ND.0019,1976,,usa,Unprovoked,Fishing,,M,UNKNOWN,n
+152,ND.0018,1976,,vietnam,Unprovoked,Swimming around anchored ship,,M,UNKNOWN,n
+153,ND.0017,1976,,south africa,Unprovoked,Crew swimming alongside their anchored ship,,M,UNKNOWN,y
+154,ND.0016,1976,,south africa,Unprovoked,4 men were bathing,,M,UNKNOWN,y
+155,ND.0015,1976,,fiji,Unprovoked,Wreck of  large double sailing canoe,,,UNKNOWN,y
+156,ND.0014,1976,Jul,usa,Unprovoked,Swimming,,M,UNKNOWN,n
+157,ND.0013,1976,Jul,south africa,Unprovoked,Fishing,,M,UNKNOWN,y
+158,ND.0012,1976,Jul,south africa,Unprovoked,Wading,,M,UNKNOWN,y
+159,ND.0011,1976,,asia?,Unprovoked,Swimming,,M,UNKNOWN,n
+160,ND.0010,1976,,usa,Unprovoked,,,F,UNKNOWN,n
+161,ND.0009,1976,,australia,Unprovoked,Fishing,,M,UNKNOWN,y
+162,ND.0008,1976,,australia,Unprovoked,Fishing,,M,UNKNOWN,y
+163,ND.0007,1976,,australia,Unprovoked,Fishing,,M,UNKNOWN,y
+164,ND.0006,1976,,australia,Unprovoked,Swimming,,M,UNKNOWN,y
+165,ND.0005,1976,,australia,Unprovoked,Diving,,M,UNKNOWN,y
+166,ND.0004,1976,,australia,Unprovoked,Pearl diving,,M,UNKNOWN,y
+167,ND.0003,1976,,usa,Unprovoked,Swimming,,M,UNKNOWN,y
+168,ND.0002,1976,,panama,Unprovoked,,,M,UNKNOWN,y
+169,ND.0001,1976,,ceylon (sri lanka),Unprovoked,Swimming,15.0,M,UNKNOWN,y
 170,2018.06.25,2018,Jun,usa,Boating,Paddling,57.0,F,WHITE SHARK,n
 171,2018.06.18,2018,Jun,usa,Unprovoked,Standing,11.0,F,UNKNOWN,n
 172,2018.06.09,2018,Jun,usa,Invalid,Surfing,48.0,M,UNKNOWN,n
@@ -6234,96 +6234,96 @@
 6189,1848.08.31,1848,Aug,usa,Unprovoked,Swimming,15.0,M,UNKNOWN,n
 6190,1848.07.17.R,1848,Jul,usa,Invalid,,,M,UNKNOWN,
 6191,1848.07.00,1848,Jul,england,Unprovoked,Standing,,M,UNKNOWN,n
-6192,1847.11.30,1847,Nov,australia,Unprovoked,Swimming,,M,UNKNOWN,n
-6193,1847.09.10,1847,Sep,usa,Unprovoked,Wading,,M,UNKNOWN,n
-6194,1847.07.19,1847,Jul,greece,Unprovoked,Swimming,19.0,M,UNKNOWN,y
-6195,1847.07.03.R,1847,Jul,usa,Unprovoked,Hilo,,M,UNKNOWN,n
-6196,1847.03.11,1847,Mar,australia,Sea Disaster,Wreck of the Sovereign,,M,UNKNOWN,n
-6197,1847.02.12,1847,Feb,mexico,Sea Disaster,Wreck of the Tweed,,,UNKNOWN,y
-6198,1847.00.00.c,1847,,australia,Unprovoked,,,,UNKNOWN,n
-6199,1847.00.00.b,1847,,usa,Invalid,Swimming,,M,UNKNOWN,
-6200,1847.00.00.a,1847,,usa,Unprovoked,Boating,,M,UNKNOWN,n
-6201,1846.12.08,1846,Dec,mexico,Sea Disaster,Wreck of the USS Somers,,M,UNKNOWN,y
-6202,1846.09.30.R,1846,Sep,africa,Unprovoked,Jumped into river,,M,UNKNOWN,y
-6203,1846.08.20.R,1846,Aug,cuba,Unprovoked,Bathing,,M,UNKNOWN,n
-6204,1845.12.26,1845,Dec,australia,Unprovoked,Fishing,,M,UNKNOWN,y
-6205,1845.11.04,1845,Nov,mexico,Unprovoked,Bathing,,M,UNKNOWN,y
-6206,1845.09.16.R,1845,Sep,england,Unprovoked,,,M,UNKNOWN,n
-6207,1845.09.10.R,1845,Sep,usa,Unprovoked,Seine netting,,M,UNKNOWN,y
-6208,1845.07.31.R,1845,Jul,usa,Unprovoked,Fell overboard,,M,UNKNOWN,y
-6209,1845.00.00.R,1845,,sierra leone,Unprovoked,,,M,UNKNOWN,y
-6210,1844.07.20.,1844,Jul,namibia,Unprovoked,Boat capsized,,M,UNKNOWN,y
-6211,1844.07.16.R,1844,,algeria,Unprovoked,Swimming,,M,UNKNOWN,y
-6212,1844.05.24,1844,May,coast of africa,Unprovoked,Fell overboard,,M,UNKNOWN,y
-6213,1844.00.00,1844,,madagascar,Unprovoked,Fell overboard,,M,UNKNOWN,y
-6214,1842.07.13,1842,Jul,usa,Unprovoked,Swimming,15.0,M,UNKNOWN,n
-6215,1842.07.06,1842,Jul,usa,Provoked,Harassing a shark,,,UNKNOWN,n
-6216,1842.00.00.b,1842,,india,Unprovoked,Washed off catamaran in the surf,7.0,M,UNKNOWN,y
-6216,1842.00.00.b,1842,,india,Unprovoked,Washed off catamaran in the surf,8.0,M,UNKNOWN,y
-6217,1842.00.00.a,1842,,australia,Unprovoked,"Unknown, but it was said to be the ""First known attack in Sydney Harbour""",,M,UNKNOWN,n
-6218,1841.03.27,1841,Mar,australia,Unprovoked,Bathing,,M,UNKNOWN,y
-6219,1840.12.00,1840,Dec,australia,Unprovoked,Swimming,,M,UNKNOWN,y
-6220,1840.09.18.R,1840,Sep,fiji,Unprovoked,,,M,UNKNOWN,n
-6221,1840.07.22.R,1840,Jul,usa,Unprovoked,Accidentally thrown overboard & treading water while awaiting rescue,,M,UNKNOWN,y
-6222,1840.04.09.R,1840,Apr,west indies,Unprovoked,Swimming,,M,UNKNOWN,y
-6223,1840.02.00,1840,Feb,australia,Boat,Sailing,,,UNKNOWN,n
-6224,1839.11.17,1839,Nov,australia,Invalid,,,M,UNKNOWN,
-6225,1839.04.14,1839,Apr,cuba,Unprovoked,Sitting on gunwale of boat,,M,UNKNOWN,y
-6226,1839.00.00.b,1839,,australia,Unprovoked,Attempting to rescue crew after whale upset their boat,,M,UNKNOWN,y
-6227,1839.00.00.a,1839,,fiji,Unprovoked,,29.0,M,UNKNOWN,n
-6228,1837.09.03,1837,Sep,usa,Unprovoked,Bathing,,M,UNKNOWN,n
-6229,1837.07.00,1837,Jul,usa,Unprovoked,Bathing,,M,UNKNOWN,n
-6230,1837.01.17,1837,Jan,australia,Unprovoked,Washing his feet,12.0,M,UNKNOWN,y
-6231,1837.00.00.a,1837,,usa,Invalid,,,M,UNKNOWN,
-6232,1836.07.26.R,1836,,spain,Invalid,,,,UNKNOWN,
-6233,1836.00.00.a,1836,,australia,Unprovoked,,,,UNKNOWN,
-6234,1835.02.21.R,1835,Feb,vanuatu,Unprovoked,Bathing,,M,UNKNOWN,y
-6235,1835.01.06,1835,Jan,tasman sea,Unprovoked,Hooking into a whale,,M,UNKNOWN,n
-6236,1834.07.15.R,1834,Jul,french polynesia,Unprovoked,Swimming,,F,UNKNOWN,y
-6237,1832.06.04,1832,Jun,australia,Unprovoked,Fishing,,F,UNKNOWN,n
-6238,1832.01.23.R,1832,Jan,australia,Unprovoked,Bathing,,M,UNKNOWN,n
-6239,1831.08.24,1831,Aug,usa,Boat,American schooner Orator capsized  ,,M,UNKNOWN,y
-6240,1831.01.22.R,1831,Jan,australia,Invalid,"Boat capsized, clinging to line",,M,UNKNOWN,
-6241,1830.07.26,1830,Jul,usa,Unprovoked,"Fishing from dory, shark upset boat & he fell into the water",52.0,M,UNKNOWN,y
-6242,1830.07.02.R,1830,Jul,india,Unprovoked,Washing a dog,,M,UNKNOWN,y
-6243,1830.04.30,1830,Apr,india,Unprovoked,Bathing,,M,UNKNOWN,y
-6244,1830.04.22.R,1830,Apr,,Unprovoked,,,M,UNKNOWN,y
-6245,1829.07.03.R,1829,Jul,sierra leone,Unprovoked,,,M,UNKNOWN,n
-6246,1829.06.10,1829,Jun,usa,Unprovoked,Fell overboard from the ship Gem,,M,UNKNOWN,y
-6247,1829.00.00,1829,,caribbean sea,Sea Disaster,Wreck of the schooner Driver,,M,UNKNOWN,y
-6248,1828.09.28,1828,Sep,sierra leone,Unprovoked,"British ship, Britannia,  was loading lumber. He was bathing",17.0,M,UNKNOWN,n
-6249,1828.00.00,1828,,usa,Unprovoked,Surfing,,M,UNKNOWN,y
-6250,1827.06.00.b,1827,Jun,sierra leone,Unprovoked,Swimming,,M,UNKNOWN,n
-6251,1827.06.00.a,1827,Jun,sierra leone,Unprovoked,Swimming,,M,UNKNOWN,n
-6252,1827.00.00,1827,,egypt,Unprovoked,,,M,UNKNOWN,y
-6253,1826.12.00,1826,Dec,brazil,Unprovoked,,,M,UNKNOWN,n
-6254,1826.11.00,1826,Nov,ghana,Unprovoked,Bathing,,M,UNKNOWN,y
-6255,1826.08.28,1826,Aug,cuba,Sea Disaster,HBM Magpie foundered in a squall,,M,UNKNOWN,y
-6256,1826.08.15.R,1826,Aug,england,Unprovoked,Bathing,,,UNKNOWN,
-6257,1826.05.20.R,1826,May,jamaica,Unprovoked,Jumped overboard,,M,UNKNOWN,y
-6258,1825.00.00.b,1825,,australia,Unprovoked,Swimming,,M,UNKNOWN,y
-6259,1825.00.00,1825,,australia,Invalid,,,M,UNKNOWN,n
-6260,1823.12.30.R,1823,Dec,jamaica,Invalid,,,,UNKNOWN,
-6261,1822.04.15,1822,Apr,nigeria,Unprovoked,,,,UNKNOWN,y
-6262,1819.07.08.R,1819,Jul,spain,Invalid,,,M,UNKNOWN,
-6263,1818.05.22.R,1818,May,norway,Invalid,,,M,UNKNOWN,
-6264,1817.06.24,1817,Jun,usa,Unprovoked,Swimming,,M,UNKNOWN,y
-6265,1817.06.15,1817,Jun,india,Unprovoked,Swimming,,M,UNKNOWN,y
-6266,1817.05.11,1817,May,sri lanka,Unprovoked,Swimming,22.0,M,UNKNOWN,y
-6267,1817.02.22,1817,Feb,sri lanka,Unprovoked,Conch diver,,M,UNKNOWN,n
-6268,1816.09.03.R,1816,,usa,Unprovoked,Swimming,,M,UNKNOWN,y
-6269,1815.10.00,1815,,tobago,Unprovoked,Bathing,,M,UNKNOWN,y
-6270,1812.07.00,1812,,england,Unprovoked,Swimming,,M,UNKNOWN,n
-6271,1811.03.01,1811,Mar,,Unprovoked,Fell overboard,,M,UNKNOWN,y
-6272,1810.09.15,1810,Sep,usa,Unprovoked,Fell into the water,,M,UNKNOWN,y
-6273,1808.12.25.R,1808,Dec,jamaica,Unprovoked,Swimming,,M,UNKNOWN,y
-6274,1808.06.01.R,1808,May,antigua,Sea Disaster,,,,UNKNOWN,
-6275,1808.02.07.R,1808,Feb,india,Unprovoked,Bathing,,M,UNKNOWN,y
-6276,1807.01.12,1807,Jan,australia,Unprovoked,,,M,UNKNOWN,n
+6192,1847.11.30,1976,Nov,australia,Unprovoked,Swimming,,M,UNKNOWN,n
+6193,1847.09.10,1976,Sep,usa,Unprovoked,Wading,,M,UNKNOWN,n
+6194,1847.07.19,1976,Jul,greece,Unprovoked,Swimming,19.0,M,UNKNOWN,y
+6195,1847.07.03.R,1976,Jul,usa,Unprovoked,Hilo,,M,UNKNOWN,n
+6196,1847.03.11,1976,Mar,australia,Sea Disaster,Wreck of the Sovereign,,M,UNKNOWN,n
+6197,1847.02.12,1976,Feb,mexico,Sea Disaster,Wreck of the Tweed,,,UNKNOWN,y
+6198,1847.00.00.c,1976,,australia,Unprovoked,,,,UNKNOWN,n
+6199,1847.00.00.b,1976,,usa,Invalid,Swimming,,M,UNKNOWN,
+6200,1847.00.00.a,1976,,usa,Unprovoked,Boating,,M,UNKNOWN,n
+6201,1846.12.08,1976,Dec,mexico,Sea Disaster,Wreck of the USS Somers,,M,UNKNOWN,y
+6202,1846.09.30.R,1976,Sep,africa,Unprovoked,Jumped into river,,M,UNKNOWN,y
+6203,1846.08.20.R,1976,Aug,cuba,Unprovoked,Bathing,,M,UNKNOWN,n
+6204,1845.12.26,1976,Dec,australia,Unprovoked,Fishing,,M,UNKNOWN,y
+6205,1845.11.04,1976,Nov,mexico,Unprovoked,Bathing,,M,UNKNOWN,y
+6206,1845.09.16.R,1976,Sep,england,Unprovoked,,,M,UNKNOWN,n
+6207,1845.09.10.R,1976,Sep,usa,Unprovoked,Seine netting,,M,UNKNOWN,y
+6208,1845.07.31.R,1976,Jul,usa,Unprovoked,Fell overboard,,M,UNKNOWN,y
+6209,1845.00.00.R,1976,,sierra leone,Unprovoked,,,M,UNKNOWN,y
+6210,1844.07.20.,1976,Jul,namibia,Unprovoked,Boat capsized,,M,UNKNOWN,y
+6211,1844.07.16.R,1976,,algeria,Unprovoked,Swimming,,M,UNKNOWN,y
+6212,1844.05.24,1976,May,coast of africa,Unprovoked,Fell overboard,,M,UNKNOWN,y
+6213,1844.00.00,1976,,madagascar,Unprovoked,Fell overboard,,M,UNKNOWN,y
+6214,1842.07.13,1976,Jul,usa,Unprovoked,Swimming,15.0,M,UNKNOWN,n
+6215,1842.07.06,1976,Jul,usa,Provoked,Harassing a shark,,,UNKNOWN,n
+6216,1842.00.00.b,1976,,india,Unprovoked,Washed off catamaran in the surf,7.0,M,UNKNOWN,y
+6216,1842.00.00.b,1976,,india,Unprovoked,Washed off catamaran in the surf,8.0,M,UNKNOWN,y
+6217,1842.00.00.a,1976,,australia,Unprovoked,"Unknown, but it was said to be the ""First known attack in Sydney Harbour""",,M,UNKNOWN,n
+6218,1841.03.27,1976,Mar,australia,Unprovoked,Bathing,,M,UNKNOWN,y
+6219,1840.12.00,1976,Dec,australia,Unprovoked,Swimming,,M,UNKNOWN,y
+6220,1840.09.18.R,1976,Sep,fiji,Unprovoked,,,M,UNKNOWN,n
+6221,1840.07.22.R,1976,Jul,usa,Unprovoked,Accidentally thrown overboard & treading water while awaiting rescue,,M,UNKNOWN,y
+6222,1840.04.09.R,1976,Apr,west indies,Unprovoked,Swimming,,M,UNKNOWN,y
+6223,1840.02.00,1976,Feb,australia,Boat,Sailing,,,UNKNOWN,n
+6224,1839.11.17,1976,Nov,australia,Invalid,,,M,UNKNOWN,
+6225,1839.04.14,1976,Apr,cuba,Unprovoked,Sitting on gunwale of boat,,M,UNKNOWN,y
+6226,1839.00.00.b,1976,,australia,Unprovoked,Attempting to rescue crew after whale upset their boat,,M,UNKNOWN,y
+6227,1839.00.00.a,1976,,fiji,Unprovoked,,29.0,M,UNKNOWN,n
+6228,1837.09.03,1976,Sep,usa,Unprovoked,Bathing,,M,UNKNOWN,n
+6229,1837.07.00,1976,Jul,usa,Unprovoked,Bathing,,M,UNKNOWN,n
+6230,1837.01.17,1976,Jan,australia,Unprovoked,Washing his feet,12.0,M,UNKNOWN,y
+6231,1837.00.00.a,1976,,usa,Invalid,,,M,UNKNOWN,
+6232,1836.07.26.R,1976,,spain,Invalid,,,,UNKNOWN,
+6233,1836.00.00.a,1976,,australia,Unprovoked,,,,UNKNOWN,
+6234,1835.02.21.R,1976,Feb,vanuatu,Unprovoked,Bathing,,M,UNKNOWN,y
+6235,1835.01.06,1976,Jan,tasman sea,Unprovoked,Hooking into a whale,,M,UNKNOWN,n
+6236,1834.07.15.R,1976,Jul,french polynesia,Unprovoked,Swimming,,F,UNKNOWN,y
+6237,1832.06.04,1976,Jun,australia,Unprovoked,Fishing,,F,UNKNOWN,n
+6238,1832.01.23.R,1976,Jan,australia,Unprovoked,Bathing,,M,UNKNOWN,n
+6239,1831.08.24,1976,Aug,usa,Boat,American schooner Orator capsized  ,,M,UNKNOWN,y
+6240,1831.01.22.R,1976,Jan,australia,Invalid,"Boat capsized, clinging to line",,M,UNKNOWN,
+6241,1830.07.26,1976,Jul,usa,Unprovoked,"Fishing from dory, shark upset boat & he fell into the water",52.0,M,UNKNOWN,y
+6242,1830.07.02.R,1976,Jul,india,Unprovoked,Washing a dog,,M,UNKNOWN,y
+6243,1830.04.30,1976,Apr,india,Unprovoked,Bathing,,M,UNKNOWN,y
+6244,1830.04.22.R,1976,Apr,,Unprovoked,,,M,UNKNOWN,y
+6245,1829.07.03.R,1976,Jul,sierra leone,Unprovoked,,,M,UNKNOWN,n
+6246,1829.06.10,1976,Jun,usa,Unprovoked,Fell overboard from the ship Gem,,M,UNKNOWN,y
+6247,1829.00.00,1976,,caribbean sea,Sea Disaster,Wreck of the schooner Driver,,M,UNKNOWN,y
+6248,1828.09.28,1976,Sep,sierra leone,Unprovoked,"British ship, Britannia,  was loading lumber. He was bathing",17.0,M,UNKNOWN,n
+6249,1828.00.00,1976,,usa,Unprovoked,Surfing,,M,UNKNOWN,y
+6250,1827.06.00.b,1976,Jun,sierra leone,Unprovoked,Swimming,,M,UNKNOWN,n
+6251,1827.06.00.a,1976,Jun,sierra leone,Unprovoked,Swimming,,M,UNKNOWN,n
+6252,1827.00.00,1976,,egypt,Unprovoked,,,M,UNKNOWN,y
+6253,1826.12.00,1976,Dec,brazil,Unprovoked,,,M,UNKNOWN,n
+6254,1826.11.00,1976,Nov,ghana,Unprovoked,Bathing,,M,UNKNOWN,y
+6255,1826.08.28,1976,Aug,cuba,Sea Disaster,HBM Magpie foundered in a squall,,M,UNKNOWN,y
+6256,1826.08.15.R,1976,Aug,england,Unprovoked,Bathing,,,UNKNOWN,
+6257,1826.05.20.R,1976,May,jamaica,Unprovoked,Jumped overboard,,M,UNKNOWN,y
+6258,1825.00.00.b,1976,,australia,Unprovoked,Swimming,,M,UNKNOWN,y
+6259,1825.00.00,1976,,australia,Invalid,,,M,UNKNOWN,n
+6260,1823.12.30.R,1976,Dec,jamaica,Invalid,,,,UNKNOWN,
+6261,1822.04.15,1976,Apr,nigeria,Unprovoked,,,,UNKNOWN,y
+6262,1819.07.08.R,1976,Jul,spain,Invalid,,,M,UNKNOWN,
+6263,1818.05.22.R,1976,May,norway,Invalid,,,M,UNKNOWN,
+6264,1817.06.24,1976,Jun,usa,Unprovoked,Swimming,,M,UNKNOWN,y
+6265,1817.06.15,1976,Jun,india,Unprovoked,Swimming,,M,UNKNOWN,y
+6266,1817.05.11,1976,May,sri lanka,Unprovoked,Swimming,22.0,M,UNKNOWN,y
+6267,1817.02.22,1976,Feb,sri lanka,Unprovoked,Conch diver,,M,UNKNOWN,n
+6268,1816.09.03.R,1976,,usa,Unprovoked,Swimming,,M,UNKNOWN,y
+6269,1815.10.00,1976,,tobago,Unprovoked,Bathing,,M,UNKNOWN,y
+6270,1812.07.00,1976,,england,Unprovoked,Swimming,,M,UNKNOWN,n
+6271,1811.03.01,1976,Mar,,Unprovoked,Fell overboard,,M,UNKNOWN,y
+6272,1810.09.15,1976,Sep,usa,Unprovoked,Fell into the water,,M,UNKNOWN,y
+6273,1808.12.25.R,1976,Dec,jamaica,Unprovoked,Swimming,,M,UNKNOWN,y
+6274,1808.06.01.R,1976,May,antigua,Sea Disaster,,,,UNKNOWN,
+6275,1808.02.07.R,1976,Feb,india,Unprovoked,Bathing,,M,UNKNOWN,y
+6276,1807.01.12,1976,Jan,australia,Unprovoked,,,M,UNKNOWN,n
 6277,1806.04.24,1896,Aug,usa,Sea Disaster,,,M,UNKNOWN,
-6278,1805.09.00,1805,Sep,usa,Invalid,,,M,UNKNOWN,
-6279,1804.02.26.R,1804,Feb,australia,Boat,,,,UNKNOWN,n
-6280,1803.05.17,1803,May,usa,Sea Disaster,,,M,UNKNOWN,n
-6281,1803.03.00,1803,Mar,australia,Unprovoked,,,M,UNKNOWN,n
-6282,1802.04.13.R,1802,Apr,india,Unprovoked,,,,UNKNOWN,y
-6283,1801.12.18.R,1801,Dec,,Provoked,Standing on landed shark's tail,,F,UNKNOWN,y
+6278,1805.09.00,1976,Sep,usa,Invalid,,,M,UNKNOWN,
+6279,1804.02.26.R,1976,Feb,australia,Boat,,,,UNKNOWN,n
+6280,1803.05.17,1976,May,usa,Sea Disaster,,,M,UNKNOWN,n
+6281,1803.03.00,1976,Mar,australia,Unprovoked,,,M,UNKNOWN,n
+6282,1802.04.13.R,1976,Apr,india,Unprovoked,,,,UNKNOWN,y
+6283,1801.12.18.R,1976,Dec,,Provoked,Standing on landed shark's tail,,F,UNKNOWN,y
